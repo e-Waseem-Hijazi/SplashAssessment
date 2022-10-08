@@ -36,3 +36,4 @@ game-front-end/*.tsbuildinfo
 game-front-end/next-env.d.ts
 
 game-back-end/node_modules
+.idea

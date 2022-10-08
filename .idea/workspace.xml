@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75145fb5-8a29-48f5-b29d-0a611c776efa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-back-end/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-back-end/db/connection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-back-end/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-front-end/pages/components/barChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-front-end/pages/fillGuessedNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game-front-end/pages/roundResults.js" afterDir="false" />
+    <list default="true" id="75145fb5-8a29-48f5-b29d-0a611c776efa" name="Changes" comment="uodate README.md">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +47,30 @@
       <option name="presentableId" value="Default" />
       <updated>1665129273996</updated>
       <workItem from="1665129277438" duration="304000" />
-      <workItem from="1665129842323" duration="69185000" />
+      <workItem from="1665129842323" duration="70225000" />
     </task>
+    <task id="LOCAL-00001" summary="back-end changes.">
+      <created>1665215743729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665215743729</updated>
+    </task>
+    <task id="LOCAL-00002" summary="front-end changes.">
+      <created>1665215768181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665215768181</updated>
+    </task>
+    <task id="LOCAL-00003" summary="uodate README.md">
+      <created>1665216312691</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665216312692</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +87,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="back-end changes." />
+    <MESSAGE value="front-end changes." />
+    <MESSAGE value="uodate README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="uodate README.md" />
   </component>
 </project>

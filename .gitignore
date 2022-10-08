@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+game-front-end/node_modules
+game-front-end/.pnp
+game-front-end/.pnp.js
+
+# testing
+game-front-end/coverage
+
+# next.js
+game-front-end/.next/
+game-front-end/out/
+
+# production
+game-front-end/build
+
+# misc
+game-front-end/.DS_Store
+game-front-end/*.pem
+
+# debug
+game-front-end/npm-debug.log*
+game-front-end/yarn-debug.log*
+game-front-end/yarn-error.log*
+game-front-end/.pnpm-debug.log*
+
+# local env files
+game-front-end/.env*.local
+
+# vercel
+game-front-end/.vercel
+
+# typescript
+game-front-end/*.tsbuildinfo
+game-front-end/next-env.d.ts
+
+game-back-end/node_modules
